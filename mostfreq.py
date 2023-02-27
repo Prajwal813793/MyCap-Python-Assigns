@@ -16,5 +16,6 @@ def most_frequent():
 
     for item in sorted_frequency:
         print(f"{item[0]}: {item[1]}")
+      
 
 most_frequent()
